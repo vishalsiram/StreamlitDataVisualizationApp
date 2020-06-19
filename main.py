@@ -17,7 +17,7 @@ import seaborn as sns
 def main():
 	"""Semi Automated ML App with Streamlit """
 
-	activities = ["EDA","Plots","About"]	
+	activities = ["EDA","Plots"]	
 	choice = st.sidebar.selectbox("Select Activities",activities)
 
 	if choice == 'EDA':

@@ -9,6 +9,5 @@ Deployed at: https://quick-analysis-web-app.herokuapp.com/ <br>
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
-## For Code Run
-streamlit run main.py
+
 
